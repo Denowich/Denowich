@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Denowich   
+- 👋 Hi, I’m @Denowich!  
 - 👀 I’m interested in JavaScript and React.
 - 🌱 I’m currently learning JS and react.
 - 💞️ I’m looking to collaborate on ...
