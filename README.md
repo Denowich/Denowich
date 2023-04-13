@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Den!  
-- 👀 I’m interested in JavaScript and React.
-- 🌱 I’m currently learning JS and React.
+- 👀 I’m interested in HTML, CSS and React.
+- 🌱 I’m currently learning HTML, CSS and React.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me denowich@gmail.com
 
